@@ -14043,9 +14043,11 @@ body.white-version {
 
 .white-version .backto-top > div::after {
   transition: var(--transition);
-  background: var(--gradient-red-hover); }
+  
+}
 
 .white-version .backto-top > div:hover svg {
+  background: var(--gradient-red-hover); 
   color: var(--color-white); }
 
 .white-version .rn-resume-area .rn-nav-list {
