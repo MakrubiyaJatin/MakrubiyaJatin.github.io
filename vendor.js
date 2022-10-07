@@ -3474,7 +3474,7 @@ function isObservable(obj) {
 
 //! moment.js locale configuration
 //! locale : English (India) [en-in]
-//! author : Jatin Agrawal : https://github.com/jatinag22
+//! author : Chandresh : https://github.com/
 
 ;(function (global, factory) {
     true ? factory(__webpack_require__(/*! ../moment */ "wd/R")) :
